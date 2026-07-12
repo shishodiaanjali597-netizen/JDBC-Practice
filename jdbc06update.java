@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.io.*;
 
-public class jdbcupdate {
+public class jdbc06update {
     public static void main(String[] args) {
         try {
             String url = "jdbc:mysql://localhost:3306/youtube";

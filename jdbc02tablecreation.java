@@ -1,5 +1,5 @@
 import java.sql.*;
-public class jdbctablecreation {
+public class jdbc02tablecreation {
     public static void main (String[]args){
         try{
             //Step 1: Load the driver class

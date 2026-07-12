@@ -1,6 +1,6 @@
 //program for JDBC connection
 import java.sql.*;
-class jdbcconnection{
+class jdbc01connection{
 
     public static void main (String args[]){
         try{

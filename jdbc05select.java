@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class jdbcselect {
+public class jdbc05select {
     public static void main(String[] args) {
         try {
             String url = "jdbc:mysql://localhost:3306/youtube";

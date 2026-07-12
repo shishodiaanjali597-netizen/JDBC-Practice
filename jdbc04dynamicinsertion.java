@@ -2,7 +2,7 @@ import java.sql.*;
 import java.io.*;
 
 
-public class jdbcdynamicinsertion{
+public class jdbc04dynamicinsertion{
 
 
     public static void main(String[]args){

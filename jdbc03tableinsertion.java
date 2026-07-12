@@ -1,5 +1,5 @@
 import java.sql.*;
-public class jdbctableinsertion {
+public class jdbc03tableinsertion {
     public static void main(String[]args){
         try{
             //Step 1: Load the driver class
